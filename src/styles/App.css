@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(52, 150, 117);
+}
+img{
+    vertical-align: middle;
+    display: inline-block;
+    width: 100px;
+    height: 150px;
+    margin:0px 100px 0px 100px;
+}
+A{
+    text-align: right;
+    padding:20px 20px 20px 20px;
+}
+Button{
+    margin:10px 10px 10px 10px;
+}
+.search{
+    height: 37px;
+    width: 100px;
+    margin:0px 0px 0px 0px;
+}
+.search-bar{
+    text-align: center;
+}
+Input{
+    text-align: center;
+    height: 30px;
+    width: 700px;
+}
+p{
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 40ch;
+}
+.dynamic{
+    white-space: nowrap;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    width: 100 px;
+    background-color: rgb(197, 165, 124);
+    border-block: solid;
+    border-color: black;
+    border-block-width: 5px;
+}
+.in{
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+}
